@@ -1,4 +1,4 @@
-# 👋 Hi, I'm César Colcas
+# 👋 Hi, I'm Kenny Colcas
 
 🎯 Data Analyst | BI | Python | SQL  
 📍 Lima, Peru
