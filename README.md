@@ -1,27 +1,3 @@
-<style>
-  h1 {
-    color: #2c3e50;
-    font-size: 2em;
-    margin-bottom: 0.2em;
-  }
-  h2 {
-    color: #2980b9;
-    font-size: 1.5em;
-    margin-top: 1.5em;
-  }
-  ul {
-    list-style-type: square;
-    padding-left: 1.2em;
-  }
-  li {
-    margin-bottom: 0.4em;
-  }
-  p {
-    font-size: 1.05em;
-    color: #34495e;
-  }
-</style>
-
 # 👋 Hi, I'm César Colcas
 
 🎯 Data Analyst | BI | Python | SQL  
