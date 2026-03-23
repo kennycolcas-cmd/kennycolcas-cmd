@@ -28,7 +28,7 @@ BEGIN
 END;
 
 EXEC WhoAmI;
-
+```
 <p>
 I'm an engineer with a strong background in process optimization and planning, currently focused on <strong>Business Intelligence, Data Analytics, and Supply Chain</strong>. I specialize in transforming raw data into strategic insights using modern analytical tools and visual storytelling.
 </p>
