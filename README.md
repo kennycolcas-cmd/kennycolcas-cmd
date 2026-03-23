@@ -2,6 +2,30 @@
 
 🎯 Data Analyst | BI | Python | SQL  
 📍 Lima, Peru  
+## 👨‍💻 About Me in SQL
+CREATE PROCEDURE WhoAmI
+AS
+BEGIN
+    DECLARE @Name VARCHAR(50) = 'Kenny Colcas';
+    DECLARE @Mission VARCHAR(100) = 'Transform data into decisions';
+    
+    DECLARE @ExperienceLevel VARCHAR(50);
+
+    SET @ExperienceLevel = 
+        CASE 
+            WHEN 1 = 1 THEN 'Growing Data Analyst 📈'
+            ELSE 'Beginner'
+        END;
+
+    SELECT 
+        @Name AS Analyst,
+        @Mission AS Mission,
+        @ExperienceLevel AS Level,
+        'SQL Server | Power BI | Python' AS Tech_Stack,
+        'Always learning, always improving 🚀' AS Mindset;
+END;
+
+EXEC WhoAmI;
 
 <p>
 I'm an engineer with a strong background in process optimization and planning, currently focused on <strong>Business Intelligence, Data Analytics, and Supply Chain</strong>. I specialize in transforming raw data into strategic insights using modern analytical tools and visual storytelling.
