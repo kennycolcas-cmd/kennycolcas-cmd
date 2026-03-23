@@ -1,8 +1,10 @@
 # 👋 Hi, I'm César Colcas
 
 🎯 Data Analyst | BI | Python | SQL  
-📍 Lima, Peru  
+📍 Lima, Peru
+
 ## 👨‍💻 About Me in SQL
+
 CREATE PROCEDURE WhoAmI
 AS
 BEGIN
