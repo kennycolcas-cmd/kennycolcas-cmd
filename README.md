@@ -26,7 +26,7 @@ BEGIN
         'SQL Server | Power BI | Python' AS Tech_Stack,
         'Always learning, always improving 🚀' AS Mindset;
 END;
-
+GO
 EXEC WhoAmI;
 ```
 <p>
