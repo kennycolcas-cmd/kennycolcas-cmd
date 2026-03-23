@@ -4,7 +4,7 @@
 📍 Lima, Peru
 
 ## 👨‍💻 About Me in SQL
-
+```sql
 CREATE PROCEDURE WhoAmI
 AS
 BEGIN
